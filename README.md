@@ -1,5 +1,7 @@
 # FirstGemBeckyBell
 
+[![Gem Version](https://badge.fury.io/rb/first_gem_becky_bell.png)](http://badge.fury.io/rb/first_gem_becky_bell)
+
 TODO: Write a gem description
 
 ## Installation
