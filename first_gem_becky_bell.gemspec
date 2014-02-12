@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = FirstGemBeckyBell::VERSION
   spec.authors       = ["Becky Bell"]
   spec.email         = ["rlbell@alum.bu.edu"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{A gem that counts the characters in a string}
+  spec.description   = %q{Write a longer description. Optional.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
